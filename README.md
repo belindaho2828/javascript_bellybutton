@@ -11,7 +11,7 @@ Check out https://belindaho2828.github.io/javascript_bellybutton/ to explore the
 
 # Sample Data for Test Subject ID 940:
 
-![Test_Subject_ID940](image-1.png)
+
 
 # Tools Used
 Javascript
