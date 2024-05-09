@@ -15,13 +15,16 @@ Check out https://belindaho2828.github.io/javascript_bellybutton/ to explore the
 
 # Tools Used
 Javascript
+
 ![image-2](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/8e9f221d-3672-4634-8089-7145428efc89)
 
 D3
+
 ![image-3](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/fd8f6cfd-dc25-4a40-aff2-7e1d5b49f627)
 
 
 HTML
+
 ![image-4](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/86e56209-151b-44c8-8751-0dcce8f859a3)
 
 # Acknowledgements
