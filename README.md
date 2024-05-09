@@ -10,17 +10,19 @@ The interactive dashboard allows users to explore the dataset of the study by se
 Check out https://belindaho2828.github.io/javascript_bellybutton/ to explore the Belly Button Biodiversity dataset yourself!
 
 # Sample Data for Test Subject ID 940:
-
+![image-1](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/9558d04d-0198-416c-8875-9a99c6f0461a)
 
 
 # Tools Used
 Javascript
-
+![image-2](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/8e9f221d-3672-4634-8089-7145428efc89)
 
 D3
+![image-3](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/fd8f6cfd-dc25-4a40-aff2-7e1d5b49f627)
 
 
 HTML
+![image-4](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/86e56209-151b-44c8-8751-0dcce8f859a3)
 
 # Acknowledgements
-Stackoverflow, D3 documentation
+Use of stackoverflow, D3 documentation, and conversations with colleagues when troubleshooting
