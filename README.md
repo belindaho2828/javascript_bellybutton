@@ -20,6 +20,7 @@ JavaScript: used as the underlying programming language to script the app's beha
 
 Plotly: the data visualization library that then renders the bubble chart bar graphs.
 
+![image](https://github.com/belindaho2828/javascript_bellybutton/assets/155488822/fceae0e2-ad00-4288-8aee-d4fbb9cd7d12)
 
 
 D3: JavaScript library used to extract data from dataset URL and dynamically render it within the dashboard. It was used to create an event listener to make the dashboard dynamic by triggering udpates to the displayed data based on user's drop down selection.
